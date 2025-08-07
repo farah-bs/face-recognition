@@ -1,10 +1,5 @@
 import tkinter as tk
 from tkinter import messagebox
-import os
-import cv2
-import torch
-import insightface
-import time
 import threading
 import subprocess
 import sys
